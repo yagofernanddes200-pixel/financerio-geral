@@ -1,2 +1,4 @@
 pandas
-ploty
+plotly
+fpdf2
+python-docx
